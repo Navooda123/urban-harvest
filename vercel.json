@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/products", "destination": "/products.html" },
+    { "source": "/subscribe", "destination": "/subscribe.html" },
+    { "source": "/community", "destination": "/community.html" },
+    { "source": "/about", "destination": "/about.html" }
+  ],
+  "cleanUrls": true
+}
